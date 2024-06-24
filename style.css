@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {background:url( "../img/Bg1.jpg");}
+
+#Navigaction 	{padding:0px 200px;word-spacing: 20px; width:500px; font-size:20px;}
+#Navigaction a:link     {color:green;}
+#Navigaction a:hover 	{color:green;}
+#Navigaction a:visited 	{color:darkgreen;}
+
+#BodyTextA     { margin:20px 0px;background-color:darkolivegreen;}
+#BodyTextA img   {float:left; border:solid black 1px; padding:5px;background-color:darkolivegreen;}
+#BodyTextA h1   {float:right; width:500px; padding:0px 35px;border-bottom:solid black 1px; color:green;}
+#BodyTextA p   {float:right; width:500px;padding:0px 15px;}
+
+#BodyTextB     {}
+#BodyTextB img   {float:right;border:solid black 1px; padding:5px; margin-top:20px;background-color:indianred;}
+#BodyTextB h1   {float:left; width:500px; padding:0px 35px;border-bottom:solid black 1px;color:maroon;}
+#BodyTextB p   {float:left; width:500px; }
+
+#BodyTextC     { margin:20px 0px;}
+#BodyTextC img   {float:left;border:solid black 1px; padding:5px;  margin-top:50px;background-color:deepskyblue;}
+#BodyTextC h1   {float:left; width:500px; padding:0px 35px;border-bottom:solid black 1px;color:darkblue}
+#BodyTextC p   {float:left; width:500px; padding:0px 15px;}
+
+#BodyTextD     { margin:20px 0px;}
+#BodyTextD img   {float:left;}
+#BodyTextD h1   {text-align:center;color:darkred}
+#BodyTextD p   {text-align:center;}
+
+#BodyTextE     {text-align:center;}
+#BodyTextE h1     {border:solid black 5px;color:greenyellow; background-color:saddlebrown; width:400px; margin-left: 230px; padding:20px}
+
+#ImageGallery     {clear:both; padding-top:20px; padding-left:00px}
+#ImageGallery img {margin-right:0px;border:solid black 1px; padding:5px;}
+
+#BottomBox4            {border:solid black 2px; margin:0px auto; clear:both;}
+#BottomBox4 h1			{text-align:center;}
+#BottomBox4 p			{text-align:center;}
+#BottomBox4 img        {margin:10px 50px;margin-left:120px;border:solid black 2px; padding:15px;}
+
+#Footer	p		{float:left; width:600px; }
+#Footer	h1		{float:left; width:600px;color:darkgreen}
+#FooterImage    {}
+#overFooter     {border:solid black 2px; padding:15px;margin:10px}
+#socmed         {}
+
+#wrapper {width:900px;margin:0px auto; background-color: white;}
+#wrapper2 {width:1000px;margin:0px auto; background-color: white;}
+
+
+#Box1 { width:250px;background-color:#EAEAEA;border-top:solid #DA4100 15px;float:left; margin-right:30px;margin-left:40px; margin-bottom:50px; }
+
+#Box2 { width:250px;background-color:#EAEAEA;border-top:solid #0065CE 15px; float:left; margin-right:30px;}
+
+#Box3 { width:250px;background-color:#EAEAEA;border-top:solid #007834 15px; float:left; }
